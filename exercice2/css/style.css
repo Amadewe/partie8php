@@ -1,0 +1,12 @@
+.directive {
+    border: 3px solid  #382fba;
+}
+
+.result {
+    color:  #605c9b; 
+     font-weight: bold;
+}
+
+.result p {
+    text-align : center;
+}
